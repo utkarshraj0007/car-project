@@ -1,6 +1,6 @@
 @font-face {
     font-family: yaari;
-    src: url(./Atelier\ du\ Soleil.ttf);
+    src: url(./Atelier\ du\ Soleil.woff2);
 }
 
 
@@ -19,7 +19,7 @@ html, body{
 body{
     height: 100%;
     width: 100%;
-    background-image: url(./car\ image.jpg);
+    background-image: url(./car\ image\ new.webp);
     background-size: cover;
     background-position:  center;
     text-align: center;
